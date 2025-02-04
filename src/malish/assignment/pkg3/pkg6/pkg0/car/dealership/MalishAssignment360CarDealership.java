@@ -16,7 +16,10 @@ import javafx.stage.Stage;
  * @author RedPanda13
  */
 public class MalishAssignment360CarDealership extends Application {
-    
+    /*
+    * Notes for notes sake 
+    *
+    * */
     @Override
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("FXMLDocument.fxml"));
